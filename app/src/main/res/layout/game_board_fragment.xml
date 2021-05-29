@@ -7,6 +7,7 @@
     tools:context=".GameBoard">
 
     <LinearLayout
+        android:id="@+id/gbMainLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
@@ -15,6 +16,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" >
 
+        <!-- (For Button) style="@android:style/ButtonBar"-->
+<!--
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -27,7 +30,7 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:text="@string/btn_default" />
-            <!--                style="@android:style/ButtonBar"-->
+
 
             <Button
                 android:id="@+id/button12"
@@ -99,6 +102,6 @@
                 android:layout_weight="1"
                 android:text="@string/btn_default" />
         </LinearLayout>
-
+-->
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
