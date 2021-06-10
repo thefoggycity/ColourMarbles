@@ -3,4 +3,13 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="gbBlank">#F0F0F0</color>
+    <color name="gbColour1">#456789</color>
+    <color name="gbColour2">#654321</color>
+    <color name="gbColour3">#543876</color>
+    <color name="gbRed">#ff2531</color>
+    <color name="gbPurple">#b210a0</color>
+    <color name="gbBlue">#0165b9</color>
+    <color name="gbGreen">#00a856</color>
+    <color name="gbOrange">#fea200</color>
 </resources>
